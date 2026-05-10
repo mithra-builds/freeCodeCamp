@@ -1,15 +1,22 @@
-# freeCodeCamp Projects
-By Mithra
+# 🌸 Mithra's freeCodeCamp Journey
 
-## Completed
-- CatPhotoApp - learning HTML forms and images
+Working through the **Responsive Web Design** certification — building real projects along the way.
 
-## In Progress
-- Cafe Menu
+---
 
-## Next
-The rest of Responsive Web Design certification
+## ✅ Completed
 
-## Completed
-- CatPhotoApp — learning HTML forms and images
-- Recipe Page — chocolate cake, ingredients and instructions
+- **CatPhotoApp** — HTML forms and images
+- **Recipe Page** — chocolate cake with ingredients and instructions
+
+## 🚧 In Progress
+
+- **Cafe Menu** — CSS styling and layout
+
+## 📋 Coming Up
+
+- Remaining projects in the Responsive Web Design certification
+
+---
+
+*Updated as I go. Always learning!*
