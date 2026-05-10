@@ -8,10 +8,11 @@ Working through the **Responsive Web Design** certification — building real pr
 
 - **CatPhotoApp** — HTML forms and images
 - **Recipe Page** — chocolate cake with ingredients and instructions
+- **BookStore Page** - list of books with buttons div element
 
 ## 🚧 In Progress
 
-- **Cafe Menu** — CSS styling and layout
+- **Travel Agency Page** 
 
 ## 📋 Coming Up
 
