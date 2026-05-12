@@ -9,11 +9,12 @@ Working through the **Responsive Web Design** certification — building real pr
 - **CatPhotoApp** — HTML forms and images
 - **Recipe Page** — chocolate cake with ingredients and instructions
 - **BookStore Page** - list of books with buttons div element
-- **Travel Agency Page** 
+- **Travel Agency Page**
+- **html music player**
 
 ## 🚧 In Progress
 
-- **html music player**
+- **html video player**
 
 ## 📋 Coming Up
 
