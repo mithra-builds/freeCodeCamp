@@ -11,10 +11,11 @@ Working through the **Responsive Web Design** certification — building real pr
 - **BookStore Page** - list of books with buttons div element
 - **Travel Agency Page**
 - **html music player**
+- **html video player**
 
 ## 🚧 In Progress
 
-- **html video player**
+- **html audio video player**
 
 ## 📋 Coming Up
 
