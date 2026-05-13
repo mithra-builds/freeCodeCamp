@@ -12,10 +12,13 @@ Working through the **Responsive Web Design** certification — building real pr
 - **Travel Agency Page**
 - **html music player**
 - **html video player**
+- **html audio video player**
+- **a heart icon**
+- **video display with iframe**
 
 ## 🚧 In Progress
 
-- **html audio video player**
+- 
 
 ## 📋 Coming Up
 
