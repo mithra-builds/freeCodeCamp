@@ -15,6 +15,7 @@ Working through the **Responsive Web Design** certification — building real pr
 - **html audio video player**
 - **a heart icon**
 - **video display with iframe**
+- **video compilation page**
 
 ## 🚧 In Progress
 
