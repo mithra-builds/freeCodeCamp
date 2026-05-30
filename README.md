@@ -25,7 +25,7 @@ Working through the **Responsive Web Design** certification — one project at a
 ## Certification Progress
 
 - [x] Basic HTML
-- [x] Basic CSS
+- [ ] Basic CSS
 - [ ] Flexbox
 - [ ] CSS Grid
 - [ ] Responsive Web Design Projects
